@@ -2,12 +2,12 @@
 
 ![Portfolio Preview](assets/profile-pic.png)
 
-> Zamonaviy, responsiv va shaxsiylashtirilgan portfolio websayti. Frontend developer Uktam Turgunov uchun yaratilgan.
+> Zamonaviy, responsiv va shaxsiylashtirilgan portfolio websayti. Backend Developer Uktam Turgunov tomonidan yaratilgan.
 
 ---
 
 ## 📋 Mazmuni
-- [Demo](#demo)
+- [Demo](#demo) - [🔗 Live Demo](https://comfy-lokum-999257.netlify.app/)
 - [Xususiyatlar](#xususiyatlar)
 - [Texnologiyalar](#texnologiyalar)
 - [O'rnatish va Ishga Tushirish](#ornatish-va-ishga-tushirish)
