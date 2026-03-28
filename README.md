@@ -82,4 +82,4 @@ mini-portfolio-website/
 
 ## 📄 Litsenziya
 
-Ushbu loyiha faqat shaxsiy foydalanish va taqdimot uchun mo'ljallangan.
+Ushbu loyiha [MIT License](LICENSE) asosida tarqatilgan.
