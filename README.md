@@ -19,17 +19,19 @@
 
 ## 🚀 Demo
 
-Portfolio saytini ishga tushirish uchun quyidagi amallarni bajaring yoki [index.html](index.html) faylini brauzerda oching.
+🔗 **Live Demo:** [https://comfy-lokum-999257.netlify.app/](https://comfy-lokum-999257.netlify.app/)
+
+Portfolio saytini mahalliy ishga tushirish uchun quyidagi amallarni bajaring yoki [index.html](index.html) faylini brauzerda oching.
 
 ---
 
 ## ✨ Xususiyatlar
 
-- **Responsiv dizayn** — barcha qurilmalarda mukammal ko‘rinish
-- **Light/Dark rejim** — yorug‘ va qorong‘i mavzular o‘rtasida almashish
+- **Responsiv dizayn** — barcha qurilmalarda mukammal ko'rinish
+- **Light/Dark rejim** — yorug' va qorong'i mavzular o'rtasida almashish
 - **Interaktiv navigatsiya** — silliq skroll va hamburger menyu
-- **Portfolio loyihalari** — so‘nggi ishlar va ularning havolalari
-- **Kontakt bo‘limi** — email va ijtimoiy tarmoqlarga tezkor havolalar
+- **Portfolio loyihalari** — so'nggi ishlar va ularning havolalari
+- **Kontakt bo'limi** — email va ijtimoiy tarmoqlarga tezkor havolalar
 
 ---
 
@@ -45,19 +47,18 @@ Portfolio saytini ishga tushirish uchun quyidagi amallarni bajaring yoki [index.
 ## ⚡ O'rnatish va Ishga Tushirish
 
 1. Repozitoriyani yuklab oling yoki klon qiling:
-   ```bash
-   git clone https://github.com/<your-username>/mini-portfolio-website.git
-   ```
+```bash
+   git clone https://github.com/OktamTurgun/mini-portfolio-website.git
+```
 2. Papkaga kiring:
-   ```bash
+```bash
    cd mini-portfolio-website
-   ```
+```
 3. `index.html` faylini brauzerda oching.
 
 ---
 
 ## 📂 Loyiha Tuzilishi
-
 ```
 mini-portfolio-website/
 │
@@ -81,4 +82,4 @@ mini-portfolio-website/
 
 ## 📄 Litsenziya
 
-Ushbu loyiha faqat shaxsiy foydalanish va taqdimot uchun mo‘ljallangan. 
+Ushbu loyiha faqat shaxsiy foydalanish va taqdimot uchun mo'ljallangan.
